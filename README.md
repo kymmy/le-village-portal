@@ -13,7 +13,7 @@ The hub homepage for all Le Village projects. Links to each app in the ecosystem
 | Project | Description | URL | Repo |
 |---------|-------------|-----|------|
 | **Portal** (this) | Hub homepage | [le-village-portal.vercel.app](https://le-village-portal.vercel.app) | This repo |
-| **Entourage** | Organize local outings | [coco-app-three.vercel.app](https://coco-app-three.vercel.app) | [kymmy/coco-app](https://github.com/kymmy/coco-app) |
+| **Entourage** | Organize local outings | [tribu.vercel.app](https://tribu.vercel.app) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
 | **Little Movers** | English Movement & Confidence Club | [little-movers.vercel.app](https://little-movers.vercel.app) | [kymmy/little-movers](https://github.com/kymmy/little-movers) |
 | **Amour Toujours** | Local solidarity initiative | [amour-toujours.vercel.app](https://amour-toujours.vercel.app) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
 

@@ -18,7 +18,7 @@ const projects = [
       "A free app to organize outings with neighbours and local friends. Park, picnic, kids activities... no more endless WhatsApp groups. Propose, gather, enjoy.",
     color: "bg-coral/10 border-coral/30",
     dot: "bg-coral",
-    href: "https://coco-app-three.vercel.app",
+    href: "https://tribu.vercel.app",
   },
   {
     nameFr: "Little Movers",

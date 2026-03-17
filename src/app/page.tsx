@@ -55,7 +55,7 @@ const projects: ProjectCard[] = [
     ctaColor: "text-coral",
     ctaFr: "D\u00e9couvrir l\u2019application",
     ctaEn: "Discover the app",
-    href: "https://coco-app-three.vercel.app/",
+    href: "https://tribu.vercel.app/",
     external: true,
     imageStyle: "cover",
   },
