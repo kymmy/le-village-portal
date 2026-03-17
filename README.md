@@ -4,7 +4,7 @@
 
 The hub homepage for all Le Village projects. Links to each app in the ecosystem.
 
-**Live:** https://le-village-portal.vercel.app
+**Live:** https://le-village-marseille.fr
 
 ---
 
@@ -12,10 +12,10 @@ The hub homepage for all Le Village projects. Links to each app in the ecosystem
 
 | Project | Description | URL | Repo |
 |---------|-------------|-----|------|
-| **Portal** (this) | Hub homepage | [le-village-portal.vercel.app](https://le-village-portal.vercel.app) | This repo |
-| **Entourage** | Organize local outings | [tribu.vercel.app](https://tribu.vercel.app) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
-| **Little Movers** | English Movement & Confidence Club | [little-movers.vercel.app](https://little-movers.vercel.app) | [kymmy/little-movers](https://github.com/kymmy/little-movers) |
-| **Amour Toujours** | Local solidarity initiative | [amour-toujours.vercel.app](https://amour-toujours.vercel.app) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
+| **Portal** (this) | Hub homepage | [le-village-marseille.fr](https://le-village-marseille.fr) | This repo |
+| **Entourage** | Organize local outings | [tribu.le-village-marseille.fr](https://tribu.le-village-marseille.fr) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
+| **Little Movers** | English Movement & Confidence Club | [little-movers.le-village-marseille.fr](https://little-movers.le-village-marseille.fr) | [kymmy/little-movers](https://github.com/kymmy/little-movers) |
+| **Amour Toujours** | Local solidarity initiative | [amour-toujours.le-village-marseille.fr](https://amour-toujours.le-village-marseille.fr) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
 
 ## Tech Stack
 
@@ -34,4 +34,4 @@ npm run dev    # http://localhost:3000
 
 ## Architecture
 
-Hub + Spoke pattern. The portal is a lightweight static site that links out to independent apps, each in its own repo with its own deployment. See the [about page](https://le-village-portal.vercel.app/about) for a non-technical overview.
+Hub + Spoke pattern. The portal is a lightweight static site that links out to independent apps, each in its own repo with its own deployment. See the [about page](https://le-village-marseille.fr/about) for a non-technical overview.

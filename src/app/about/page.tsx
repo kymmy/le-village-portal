@@ -18,7 +18,7 @@ const projects = [
       "A free app to organize outings with neighbours and local friends. Park, picnic, kids activities... no more endless WhatsApp groups. Propose, gather, enjoy.",
     color: "bg-coral/10 border-coral/30",
     dot: "bg-coral",
-    href: "https://tribu.vercel.app",
+    href: "https://tribu.le-village-marseille.fr",
   },
   {
     nameFr: "Little Movers",
@@ -31,7 +31,7 @@ const projects = [
       "English movement classes for little ones (4 months to 6 years) on Sunday mornings. Parent-child yoga, babywearing dance, motor skills courses. Small groups, premium approach, family bonding.",
     color: "bg-primary/10 border-primary/30",
     dot: "bg-primary",
-    href: "https://little-movers.vercel.app",
+    href: "https://little-movers.le-village-marseille.fr",
   },
   {
     nameFr: "Amour Toujours",
@@ -44,7 +44,7 @@ const projects = [
       "A solidarity project to encourage mutual aid between residents. Solidarity dinners, pink collection bins at partner shops, entrepreneur meetups, charity tastings. All proceeds support families in need.",
     color: "bg-amour-red/10 border-amour-red/30",
     dot: "bg-amour-red",
-    href: "https://amour-toujours.vercel.app",
+    href: "https://amour-toujours.le-village-marseille.fr",
   },
 ];
 
