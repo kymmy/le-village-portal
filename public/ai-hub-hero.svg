@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#EBF0FA"/>
+  <circle cx="200" cy="130" r="60" fill="#3B73D9" opacity="0.15"/>
+  <circle cx="200" cy="130" r="40" fill="#3B73D9" opacity="0.25"/>
+  <circle cx="200" cy="130" r="20" fill="#3B73D9" opacity="0.4"/>
+  <!-- Brain/AI icon -->
+  <path d="M185 120 C185 110, 195 100, 205 105 C210 95, 225 100, 220 110 C230 112, 230 125, 222 128 C228 135, 220 145, 212 142 C210 150, 195 150, 193 142 C185 145, 177 135, 182 128 C174 125, 175 112, 185 110 Z" fill="#3B73D9" opacity="0.6"/>
+  <!-- Connection dots -->
+  <circle cx="140" cy="100" r="5" fill="#7C5CC4" opacity="0.5"/>
+  <circle cx="260" cy="100" r="5" fill="#7C5CC4" opacity="0.5"/>
+  <circle cx="145" cy="170" r="5" fill="#2D8E6F" opacity="0.5"/>
+  <circle cx="255" cy="170" r="5" fill="#2D8E6F" opacity="0.5"/>
+  <line x1="145" y1="100" x2="185" y2="120" stroke="#7C5CC4" stroke-width="1" opacity="0.3"/>
+  <line x1="255" y1="100" x2="215" y2="120" stroke="#7C5CC4" stroke-width="1" opacity="0.3"/>
+  <line x1="150" y1="170" x2="190" y2="140" stroke="#2D8E6F" stroke-width="1" opacity="0.3"/>
+  <line x1="250" y1="170" x2="210" y2="140" stroke="#2D8E6F" stroke-width="1" opacity="0.3"/>
+  <text x="200" y="210" text-anchor="middle" font-family="serif" font-size="28" font-weight="bold" fill="#3B73D9">AI Hub</text>
+  <text x="200" y="235" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7A6F63">Le Village Marseille</text>
+</svg>

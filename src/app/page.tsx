@@ -99,6 +99,26 @@ const projects: ProjectCard[] = [
     external: true,
     imageStyle: "centered",
   },
+  {
+    title: "Le Village \u2013 AI Hub",
+    subtitleFr: "Apprendre l\u2019IA ensemble",
+    subtitleEn: "Learning AI together",
+    subtitleColor: "text-ai-hub-blue",
+    descriptionFr:
+      "Un espace tech pour d\u00e9couvrir, comprendre et utiliser l\u2019intelligence artificielle. Ressources et sessions cr\u00e9\u00e9es par notre communaut\u00e9.",
+    descriptionEn:
+      "A tech space to discover, understand and use artificial intelligence. Resources and sessions created by our community.",
+    image: "/ai-hub-hero.svg",
+    badge: "AI Hub",
+    badgeBg: "bg-ai-hub-blue text-white",
+    cardBg: "bg-ai-hub-blue-light",
+    ctaColor: "text-ai-hub-blue",
+    ctaFr: "Explorer l\u2019AI Hub",
+    ctaEn: "Explore the AI Hub",
+    href: "https://ai-hub-cyan.vercel.app",
+    external: true,
+    imageStyle: "centered",
+  },
 ];
 
 export default function HomePage() {
@@ -130,7 +150,7 @@ export default function HomePage() {
           className="text-village-green italic text-xl mt-2"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          Marseille 11<sup>e</sup> &amp; 12<sup>e</sup>
+          Marseille
         </motion.p>
 
         <motion.p
@@ -168,7 +188,7 @@ export default function HomePage() {
       </header>
 
       {/* Project Cards */}
-      <main className="max-w-6xl mx-auto px-4 md:px-6 pb-16 md:pb-20 grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+      <main className="max-w-6xl mx-auto px-4 md:px-6 pb-16 md:pb-20 grid md:grid-cols-2 gap-6 md:gap-8">
         {projects.map((project, i) => (
           <motion.a
             key={project.title}
