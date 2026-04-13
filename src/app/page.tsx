@@ -40,7 +40,7 @@ interface ProjectCard {
 
 const projects: ProjectCard[] = [
   {
-    title: "Le Village \u2013 Entourage",
+    title: "Le Village \u2013 Tribu",
     subtitleFr: "Ton entourage local",
     subtitleEn: "Your local circle",
     subtitleColor: "text-coral",
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     descriptionEn:
       "Easily organize outings with neighbours and local friends \u2014 park, picnic, caf\u00e9, kids activities. No more 42 WhatsApp messages.",
     image: "/tribu-screenshot.png",
-    badge: "Entourage",
+    badge: "Tribu",
     badgeBg: "bg-coral text-white",
     cardBg: "bg-entourage-coral-light",
     ctaColor: "text-coral",
