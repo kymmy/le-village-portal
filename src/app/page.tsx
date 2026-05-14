@@ -271,8 +271,8 @@ export default function HomePage() {
         </p>
         <p className="text-muted-foreground text-sm font-body mb-3">
           {t(
-            "Dynamiser la vie locale et cr\u00e9er une communaut\u00e9 bienveillante \u2014 Marseille 11e & 12e",
-            "Energize local life and build a caring community \u2014 Marseille 11th & 12th"
+            "Dynamiser la vie locale et cr\u00e9er une communaut\u00e9 bienveillante \u2014 Marseille 12e",
+            "Energize local life and build a caring community \u2014 Marseille 12th"
           )}
         </p>
         <Link

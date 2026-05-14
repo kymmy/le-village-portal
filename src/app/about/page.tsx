@@ -64,8 +64,8 @@ const values = [
   {
     titleFr: "Locale",
     titleEn: "Local",
-    descFr: "Ancre dans les quartiers de Marseille 11e et 12e. On connait nos voisins, on fait vivre notre quartier.",
-    descEn: "Rooted in the neighbourhoods of Marseille 11th and 12th. We know our neighbours, we bring life to our area.",
+    descFr: "Ancre dans les quartiers du 12e arrondissement de Marseille. On connait nos voisins, on fait vivre notre quartier.",
+    descEn: "Rooted in the neighbourhoods of Marseille's 12th district. We know our neighbours, we bring life to our area.",
   },
   {
     titleFr: "Intergenerationnelle",
@@ -118,8 +118,8 @@ export default function AboutPage() {
           className="text-lg text-muted-foreground leading-relaxed font-body"
         >
           {t(
-            "Le Village est une initiative communautaire a Marseille 11e et 12e. L'idee est simple : creer du lien entre voisins, parents et enfants a travers des activites locales. Pas une association formelle, pas une entreprise. Juste des gens du quartier qui s'organisent pour que la vie locale soit plus riche, plus solidaire, plus joyeuse.",
-            "Le Village is a community initiative in Marseille's 11th and 12th districts. The idea is simple: build connections between neighbours, parents and children through local activities. Not a formal association, not a company. Just local people organizing to make neighbourhood life richer, more supportive, more joyful."
+            "Le Village est une initiative communautaire dans le 12e arrondissement de Marseille. L'idee est simple : creer du lien entre voisins, parents et enfants a travers des activites locales. Pas une association formelle, pas une entreprise. Juste des gens du quartier qui s'organisent pour que la vie locale soit plus riche, plus solidaire, plus joyeuse.",
+            "Le Village is a community initiative in Marseille's 12th district. The idea is simple: build connections between neighbours, parents and children through local activities. Not a formal association, not a company. Just local people organizing to make neighbourhood life richer, more supportive, more joyful."
           )}
         </motion.p>
       </header>
@@ -270,7 +270,7 @@ export default function AboutPage() {
           Le Village
         </p>
         <p className="text-sm text-muted-foreground font-body">
-          Marseille 11e & 12e
+          Marseille 12e
         </p>
       </footer>
     </div>
