@@ -36,12 +36,12 @@ const projects = [
   {
     nameFr: "Amour Toujours",
     nameEn: "Amour Toujours",
-    subtitleFr: "Initiative Solidaire Locale",
-    subtitleEn: "Local Solidarity Initiative",
+    subtitleFr: "Solidaires entre voisins du 12e",
+    subtitleEn: "Neighbours helping neighbours in the 12th",
     descFr:
-      "Un projet solidaire pour encourager l'entraide entre habitants. Diners solidaires, collectes roses chez les commercants partenaires, cafe des entrepreneurs, degustations caritatives. Tous les benefices soutiennent les familles dans le besoin.",
+      "Montolivet, Beaumont, Bois Luzy, Saint Julien — notre quartier regorge de potentiel. Amour Toujours, c'est des rencontres entre voisins, des diners partages, des collectes chez nos commercants et des moments qui font vivre le 12e. Sois acteur de ton quartier, solidaire entre jeunes parents, et construis avec nous un village ou nos enfants grandissent ensemble.",
     descEn:
-      "A solidarity project to encourage mutual aid between residents. Solidarity dinners, pink collection bins at partner shops, entrepreneur meetups, charity tastings. All proceeds support families in need.",
+      "Montolivet, Beaumont, Bois Luzy, Saint Julien — our neighbourhood is full of potential. Amour Toujours means meeting your neighbours, shared dinners, collections at local shops and moments that bring the 12th to life. Be an actor in your neighbourhood, support fellow young parents, and build a village where our children grow up together.",
     color: "bg-amour-red/10 border-amour-red/30",
     dot: "bg-amour-red",
     href: "https://amour-toujours.le-village-marseille.fr",

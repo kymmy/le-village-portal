@@ -81,13 +81,13 @@ const projects: ProjectCard[] = [
   },
   {
     title: "Le Village \u2013 Amour Toujours",
-    subtitleFr: "Initiative Solidaire Locale",
-    subtitleEn: "Local Solidarity Initiative",
+    subtitleFr: "Solidaires entre voisins du 12e",
+    subtitleEn: "Neighbours helping neighbours in the 12th",
     subtitleColor: "text-amour-red",
     descriptionFr:
-      "Encourager l\u2019entraide entre habitants \u2014 aide entre voisins, actions solidaires, soutien aux familles dans le besoin.",
+      "Fais vivre ton quartier \u2014 rencontres entre voisins, entraide entre jeunes parents, actions solidaires a Montolivet, Beaumont, Bois Luzy et Saint Julien.",
     descriptionEn:
-      "Encourage mutual aid between residents \u2014 neighbour help, solidarity actions, support for families in need.",
+      "Bring your neighbourhood to life \u2014 meet your neighbours, support fellow young parents, solidarity actions in Montolivet, Beaumont, Bois Luzy and Saint Julien.",
     image: "/ToujoursAmour.png",
     badge: "Amour Toujours",
     badgeBg: "bg-amour-red text-white",
